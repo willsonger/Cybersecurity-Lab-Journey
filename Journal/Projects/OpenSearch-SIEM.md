@@ -88,3 +88,23 @@ OpenSearch deployment requires coordination between ingestion, storage, and visu
 - Threat hunting dashboards
 - Azure log integration
 - Palo Alto Networks integration
+
+![Uploading image.png…]()
+
+# OpenSearch SIEM Project
+
+## Overview
+
+This project documents the deployment of an OpenSearch-based Security Information and Event Management (SIEM) platform within my cybersecurity engineering lab.
+
+## Future Enhancements
+
+- Wazuh integration
+- Sigma rule testing
+- Detection engineering workflows
+- Threat hunting dashboards
+- Azure log integration
+- Palo Alto Networks integration
+
+
+
