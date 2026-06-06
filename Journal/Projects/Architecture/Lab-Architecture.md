@@ -1,5 +1,11 @@
 # Cybersecurity Lab Architecture
 
+## Overview# Cybersecurity Lab Architecture
+
+## Network Diagram
+
+![Cybersecurity Lab Architecture](Architecture/Screenshots/Core-Lab-Network-Diagram.png)
+
 ## Overview
 
 This document describes the architecture of my cybersecurity engineering lab.
