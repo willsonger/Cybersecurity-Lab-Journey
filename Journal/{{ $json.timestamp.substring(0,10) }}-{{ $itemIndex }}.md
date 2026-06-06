@@ -1,1 +1,0 @@
-# Cybersecurity Lab Journal  This file was created automatically by n8n.  Timestamp:   Category:   User:   Origin: 
