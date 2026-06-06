@@ -1,1 +1,0 @@
-# Cybersecurity Lab Journal  This file was created automatically by n8n.  Timestamp: 2026-06-06T04:31:51.217+00:00  Category: FAILED_LOGIN  User: <NONE>  Origin: REST
