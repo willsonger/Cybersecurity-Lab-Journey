@@ -4,7 +4,7 @@
 
 ## Network Diagram
 
-![Cybersecurity Lab Architecture](Architecture/Screenshots/Core-Lab-Network-Diagram.png)
+![Cybersecurity Lab Architecture](Screenshots/Core-Lab-Network-Diagram.png)
 
 ## Overview
 
